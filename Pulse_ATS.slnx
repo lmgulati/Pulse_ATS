@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/tools/">
+    <Project Path="TickGeneratorApp/TickGeneratorApp.csproj" Id="1ad685d0-005b-4457-9cb8-3c632bf88f78" />
+  </Folder>
+  <Project Path="Pulse_ATS/Pulse_ATS.csproj" Id="aceb9b30-94ff-4b41-a631-6503442ea0e6" />
+</Solution>
